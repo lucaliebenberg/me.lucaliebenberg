@@ -286,7 +286,7 @@ body {
 }
 
 .section__preview_tertiary::before {
-  content: "👨🏽‍💻 ";
+  content: "🔖 ";
 }
 
 .section__preview_tertiary:hover {
