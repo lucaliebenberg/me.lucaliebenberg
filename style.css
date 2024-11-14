@@ -19,6 +19,9 @@
 
   --tertiary: #ff79c6;
   --tertiary-accent: #8be9fd20;
+
+  --quad: #FFA07A;
+  --quad-accent: #FA8072;
 }
 
 @keyframes blink {
@@ -295,6 +298,20 @@ body {
 
 .section__preview::-webkit-details-marker {
   display: none;
+}
+
+.section__preview_quad {
+  color: var(--quad);
+  border: 1px solid var(--quad);
+}
+
+.section__preview_quad {
+  color: var(--quad);
+  border: 1px solid var(--quad);
+}
+
+.section__preview_quad::before {
+  content: "📃 ";
 }
 
 /* 
