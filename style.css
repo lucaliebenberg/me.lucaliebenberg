@@ -191,7 +191,7 @@ body {
 }
 
 .section__preview_primary::before {
-  content: "💙 ";
+  content: "🛠 ";
 }
 
 .section__preview_primary::after {
@@ -227,7 +227,7 @@ body {
 }
 
 .section__preview_secondary::before {
-  content: "📚 ";
+  content: "🔦 ";
 }
 
 .section__preview_secondary::after {
@@ -286,7 +286,7 @@ body {
 }
 
 .section__preview_tertiary::before {
-  content: "💼 ";
+  content: "👨🏽‍💻 ";
 }
 
 .section__preview_tertiary:hover {
