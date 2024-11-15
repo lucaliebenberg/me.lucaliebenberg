@@ -108,6 +108,12 @@ body {
   cursor: default;
 }
 
+@media (min-width: 20rem) {
+  .header {
+    display: none;
+  }
+}
+
 .header__theme {
   position: relative;
   display: block;
