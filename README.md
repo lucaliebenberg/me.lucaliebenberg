@@ -1,5 +1,5 @@
-  <h1 align="center">
-    lucaliebenberg.me 🇿🇦 
+  <h1 align="left">
+  lucaliebenberg.me 🎷 
   </h3>  
   
   
